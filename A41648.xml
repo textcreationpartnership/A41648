@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The principles of Christian religion Proved by scripture, propounded by questions and answers: short for memory, plain for the meanest capacity, and profitable for all. Imprimatur Charles Herle.</title>
+            <author>Gouge, Thomas, 1605-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41648</idno>
+            <idno type="STC">Wing G1370_CANCELLED</idno>
+            <idno type="STC">Wing H77A_CANCELLED</idno>
+            <idno type="STC">ESTC R9433</idno>
+            <idno type="EEBO-CITATION">99834906</idno>
+            <idno type="PROQUEST">99834906</idno>
+            <idno type="VID">39550</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41648)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39550)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 939:14, 1948:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The principles of Christian religion Proved by scripture, propounded by questions and answers: short for memory, plain for the meanest capacity, and profitable for all. Imprimatur Charles Herle.</title>
+                  <author>Gouge, Thomas, 1605-1681.</author>
+                  <author>J. H.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R.L. for Samuel Man, at the Swan in Pauls Church yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: J.H.</note>
+                  <note>Identified on UMI microfilm (Early English books, 1641-1700) reel 939 as Wing G1370, and on reel 1948 as Wing H77A. Both entries cancelled in Wing (2nd ed.).</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery ("Early English books, 1641-1700", reel 939), and the Bodleian Library (reel 1948).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Biblical teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39550:1"/>
+            <pb facs="tcp:39550:1" rendition="simple:additions"/>
+            <p>THE PRINCIPLES OF <hi>Chriſtian Religion.</hi>
+            </p>
+            <p>Proved by Scripture, propoun<g ref="char:EOLhyphen"/>ded by <hi>Queſtions</hi> and <hi>Anſwers:</hi> ſhort for memory, plain for the meaneſt capacity, and profitable for all.</p>
+            <q>
+               <bibl>
+                  <hi>DEUT. 6.6, 7.</hi>
+               </bibl>
+               <p>Theſe words which I command thee this day, ſhall be in thy heart, and thou ſhalt teach them diligently unto thy children, and ſhalt talke of them when thou ſitteſt in thy houſe, &amp;c.</p>
+            </q>
+            <p>Imprimatur, CHARLES HERLE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. L.</hi> for SAMUEL MAN, at the Swan in PAULS Church yard 1645.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:39550:2"/>
+            <pb facs="tcp:39550:2"/>
+            <head>To the READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Orthodox, pious, and learned Authour of theſe few enſuing Catecheticall Principles of Reli<g ref="char:EOLhyphen"/>gion, did, it ſeemeth, at firſt in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and commend them onely to his owne Pa<g ref="char:EOLhyphen"/>riſhioners, to be directions for all ſuch godly houſe-holders, that deſire to inſtruct and to train up their children and ſervants in the informa<g ref="char:EOLhyphen"/>tion, feare, and nurture of the Lord: But be<g ref="char:EOLhyphen"/>cauſe every Queſtion and Anſwer is ſo fully pro<g ref="char:EOLhyphen"/>ved by many pregnant and appoſite teſtimonies of Gods Word, to informe and ſatisfie yong be<g ref="char:EOLhyphen"/>ginners in Religious ways; It hath beene the hearty wiſh, and godly deſire of many good Chriſtians to have them Printed, that among other good means to build us up in our moſt holy faith, and to remove fond and wicked opinions, that run againſt, and labour to overthrow the very firſt elements and principles of Chriſtia<g ref="char:EOLhyphen"/>nity,<note place="margin">Heb. 5.12</note> theſe few directions might be publike and extant alſo. The method, the Authour uſeth in them, is ſuch, and the Queſtions and An<g ref="char:EOLhyphen"/>ſwers are ſo wiſely digeſted, that yong begin<g ref="char:EOLhyphen"/>ners in piety may eaſily referre, what they heare
+<pb facs="tcp:39550:3"/>in the publike Aſſemblies, or read in godly books privatly, to ſome of theſe heads, whereby they may be inabled, by Gods bleſsing, is give ac<g ref="char:EOLhyphen"/>count to every man, that ſhall ask them a reaſon of the hope, that is in them with meekneſſe and feare.<note place="margin">1 Pet. 3.15.</note> The Lord of heaven eſtabliſh and ſettle us in the truth, and by the faithfull Miniſtery of his word weed out, and free us from all thoſe nasty weeds of hereſie and truth-overthrowing Schiſmes! That wee the people of this Iſland, being quite delivered from the Prelaticall popiſh yoke of former oppreſsions, and ſuperſtitions on the one ſide, and from old and new Hereſies on the other ſide, may at length become a well reſi<g ref="char:EOLhyphen"/>ned Church, a people truly zealous of good works, that forreign Nations, ſeeing GOD'S bleſsing upon <hi>Englands</hi> Reformation, may be<g ref="char:EOLhyphen"/>gin alſo in good earneſt, to hate the Whore of <hi>Babylon,</hi> and help to burn her with fire: That ſo away may be opened for the poor blind <hi>Jews</hi> to come in, and look on him, whom they have pierced: Which the Lord grant for Jeſus Chriſt his ſake.</p>
+            <closer>
+               <hi>AMEN.</hi> 
+               <signed>J. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="principles">
+            <pb n="1" facs="tcp:39550:3"/>
+            <head>The Principles of Chriſtian Religion, proved by Scriptures.</head>
+            <p>Queſt. <hi>WHat is true happineſſe?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To know God and myſelf.</p>
+            <list>
+               <head>Proofs.</head>
+               <item>1 That it is true happines to know God, ſee <hi>Joh.</hi> 17.3. where Chriſt ſaith. <hi>This is life eternall that they know thee the onely true God and Jeſus Chriſt whom thou haſt ſent.</hi> Jer. 9.24.</item>
+               <item>2 That it is true happines to know our ſelves <hi>Matth.</hi> 5.3. <hi>Bleſſed are the poor in ſpirit, for theirs is the Kingdome of God.</hi>
+               </item>
+            </list>
+            <p>Q. <hi>What is God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God is a ſpirit every way infinite, goodneſſe it ſelfe, Creatour, preſerver and governour of all things, diſtinguiſhed into three perſons, the Father, the Sonne, and the Holy Ghoſt.</p>
+            <list>
+               <head>Proofs.</head>
+               <item>1 That God is a Spirit. <hi>John</hi> 4.24. God is a Spirit, and they that worſhip him muſt worſhip him in ſpirit and in truth.</item>
+               <item>2 That God is every way infinite 1 <hi>King.</hi> 8.27. <hi>Solomon</hi> ſaith unto God, behold the heavens, and the heavens of heavens, are not able to contain thee: how much more unable is this houſe which I have built: <hi>Pſal.</hi> 90 2. <hi>Moſes</hi> ſaith to God, Before the mountains were made and brought forth, ere ever thou hadſt framed the eard, and the world, even from everla<g ref="char:EOLhyphen"/>ſting to everlaſting thou art God.</item>
+               <item>
+                  <pb n="2" facs="tcp:39550:4"/>
+3 That God is goodneſſe it ſelfe, <hi>Ezod.</hi> 4.6, 7. The Lord proclaimes himſelfe thus: The Lord, the Lord, ſtrong graci<g ref="char:EOLhyphen"/>ous, and mercifull, ſlow to anger, aboundant in goodneſſe and truth, reſerving mercie for thouſands, forgiving iniquity tranſ<g ref="char:EOLhyphen"/>greſſion and ſin, and that will by no means clear the guilty.</item>
+               <item>4 That God is Creatour of all things, <hi>Exod.</hi> 20.11. Ton in ſix dayes the Lord made the heaven, and the earth the ſee and all that in them is: <hi>Prov.</hi> 16.4.</item>
+               <item>5 That God is preſerver of all things <hi>Heb.</hi> 1.3. he beareth up all things by his mighty word.</item>
+               <item>6 That God is governour of all things, <hi>Mat.</hi> 10. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> where Chriſt ſaith, Are not two ſparows ſold for a farthing, yet one of them ſhall not fall on the ground without your father, the haires of your head are all numbred.</item>
+               <item>7 That this God is diſtinguiſhed into the Father, the Son and the Holy Ghoſt, 1 <hi>John</hi> 8.7. There are three that beare record in heaven, the Father, the Word, and the Holy Ghoſt, and theſe three are one.</item>
+            </list>
+            <p>Q. <hi>What are you by creation in</hi> Adam?</p>
+            <p>
+               <hi>A.</hi> I am a reaſonable creature indued with the image of God, which ſtandeth in wiſdome and true holineſſe.</p>
+            <list>
+               <head>Proofs</head>
+               <item>1 That a man is a creature, indued with a reaſonable ſoule, <hi>Gen.</hi> 2.7. The Lord God formed the man, of the duſt of the ground, and breathed into his noſtrils the breath of life, ſo man became a living ſoule. 1 <hi>Cor.</hi> 15.45.</item>
+               <item>2 That man was created in the image of God, <hi>Gen.</hi> 1.27. Thus God created man in his image, in the image of God created he him, he created them male and female.</item>
+               <item>3 That wiſdome is a part of Gods image, <hi>Col.</hi> 3.10. and have put on the new man, which is renewed in knowledge after the image of him that created him.</item>
+               <item>4 That holineſſe is another part of Gods image, <hi>Epheſ.</hi> 4.24. Put on the new man, which after God is created in righ<g ref="char:EOLhyphen"/>teouſneſſe, and true holineſſe.</item>
+            </list>
+            <p>
+               <pb n="3" facs="tcp:39550:4"/>
+Q. <hi>What are you by</hi> Adams <hi>fall?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I am wholly corrupted with ſin, and continually ſub<g ref="char:EOLhyphen"/>ject to the curſe and wrath of God.</p>
+            <list>
+               <head>Proofs.</head>
+               <item>1 That mans nature is wholly corrupted with ſin, <hi>Gen.</hi> 6.5. God ſaw that every imagination of the thoughts of mans heart was onely evill continually <hi>Rom.</hi> 5.12, 14.</item>
+               <item>2 That every naturall man is ſubject to Gods curſe, <hi>Gal.</hi> 3.10. Curſed is every one, that continueth not in all things, which are written in the booke of the Law to do them.</item>
+            </list>
+            <p>Q. <hi>What are your ſins?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A guiltineſſe in <hi>Adams</hi> firſt offence, and a diſpoſition of my heart to every thing that is againſt the Law of God, with innumerable fruits thereof in thought, ſpeech, and a<g ref="char:EOLhyphen"/>ction.</p>
+            <list>
+               <head>Proofs.</head>
+               <item>1 That we are guilty of and in <hi>Adams</hi> firſt offence, <hi>Rom.</hi> 5.12. By the offence of one judgement came upon all mem to condemnation.</item>
+               <item>2 That our hearts are inclined to goe againſt Gods Law, <hi>Rom.</hi> 7.23. I ſee another Law in my members, rebelling and warring againſt the Law of my mind, and leading me captive to the Law of ſin, &amp;c.</item>
+               <item>3 That we are thus corrupted from the beginning of our nature, <hi>Pſal.</hi> 51.5. <hi>David</hi> ſaith, Behold, I was ſhapen in ini<g ref="char:EOLhyphen"/>quity, and in ſin did my mother conceive me, <hi>Job</hi> 14.4.</item>
+               <item>4 That our actuall ſins are innumerable. <hi>Pſal.</hi> 40.12. &amp; <hi>Ezra.</hi> 9, 6. Our iniquities are increaſed over our heads, and our treſpaſſes are grown up to heaven.</item>
+            </list>
+            <p>Q. <hi>What, is Gods curſe due for ſins?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It containeth all the miſeries of this life, with the death of both body and ſoule, which is endleſſe damnation in hell.</p>
+            <list>
+               <pb n="4" facs="tcp:39550:5"/>
+               <head>Proofs.</head>
+               <item>1 That all miſeries of this life are puniſhments for ſin, <hi>Deut.</hi> 28.20. The Lord ſhall ſend upon thee curſing, vexation, and reb ke, in all that which thou ſhalt ſet thy hand to doe, untill thou be deſtroyed quickly, becauſe of the wickedneſſe of thy doings.</item>
+               <item>2 That death of body and ſoule comes by ſin, <hi>Rom.</hi> 6.23. The wages of ſin is death. <hi>Rom.</hi> 5.12. &amp; <hi>James</hi> 1.15, when luſt hath conceived it bringeth forth ſin, and ſin when it is fi<g ref="char:EOLhyphen"/>niſhed bringeth forth death.</item>
+               <item>3 That damnation in hell is the reward of ſin, <hi>Mat.</hi> 25.41. &amp; 2 <hi>Theſ.</hi> 1.8, 9. They that know not God and that obey not the Goſpel of our Lord Jeſus Chriſt ſhall be puniſhed with everlaſting deſtruction from the prefence of God, and from the glory of his power.</item>
+            </list>
+            <p>Q <hi>What remedie or redemption is there againſt ſin and death?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Jeſus Chriſt the eternall Sonne of God, who in mans nature ſuffered the death of the croſſe and perfectly fulfilled that Law for all them that doe receive him.</p>
+            <list>
+               <head>Proofs.</head>
+               <item>1 That Jeſus Chriſt is the Sonne of God, <hi>John</hi> 20.31. Theſe things are written that yee might believe, that Jeſus is that Chriſt that ſonne of God, and that in believing yee might have life through his name, <hi>Mat.</hi> 1.21. &amp; 1 <hi>John</hi> 3.23.</item>
+               <item>2 That the Sonne of God Jeſus Chriſt became man, <hi>John</hi> 1 14. That word was made fleſh and dwelt among us, &amp;c. <hi>Heb.</hi> 2.14. For as much as the children are partakers of fleſh and bloud, hee alſo himſelfe likewiſe took part of the ſame, that through death he might deſtroy him, that had the power of death, that is the devill.</item>
+               <item>3 That Chriſt ſuffered death for us, <hi>Phil,</hi> 2.8. he humbled himſelfe and became obedient to the death, even to the death of the croſſe.</item>
+               <item>
+                  <pb n="5" facs="tcp:39550:5"/>
+4 That Chriſt fulfilled the Law for us, <hi>Met.</hi> 3.15. &amp; 5.17. Where Chriſt profeſſeth it becommeth us to fulfill all righte<g ref="char:EOLhyphen"/>ouſneſſe and he alſo ſaith, thinke not that I am come to de<g ref="char:EOLhyphen"/>ſtroy the Law and the Prophets, I am not come to deſtroy them but to fulfil them <hi>Rom.</hi> 10 4.</item>
+               <item>That the benefits of Chriſt doe belong to all them that doe receive him <hi>John</hi> 1.12. But as many as received him to them he gave prerogative to be the ſonnes of God even to them that believe in his name ſee <hi>John</hi> 6.64 56. where Chriſt ſaith who ſo eaveth my fleſh and drinketh my bloud, hath eternall life, and he dwelleth in me and I in him</item>
+            </list>
+            <p>Q. <hi>What is the inſtrument whereby Chriſt is received and appeared.</hi>
+            </p>
+            <p>
+               <hi>A</hi> It is faith whereby I doe unfainedly believe that Chriſt is made unto me in particular wiſdome, righteouſneſſe, ſancti<g ref="char:EOLhyphen"/>fication and redemption. 1 <hi>Cor.</hi> 12.30.</p>
+            <list>
+               <head>Proofs.</head>
+               <item>1 That by faith we are made partakers of Chriſt, <hi>Epheſ.</hi> 3.17. Saint <hi>Paul</hi> ſaith, that Chriſt may dwell in our hearts by faith.</item>
+               <item>2 That this faith muſt be ſound and not fained. 1 <hi>Tim.</hi> 1.5. the end of the commandement is love out of a pure heart, and a good conſcience, and faith unfained.</item>
+               <item>3 That faith muſt apply Chriſt particularly. <hi>Gal.</hi> 2.20, <hi>Paul</hi> faith, the life which I now live in the fleſh, I live by faith in the Sonne of God, who loved me, and gave himſelfe for me. 1 <hi>Tim.</hi> 1.15, 16.</item>
+            </list>
+            <p>Q. <hi>When doth this faith begin to breed and take place in thy heart?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When by Gods grace I begin to be touched in con<g ref="char:EOLhyphen"/>ſcience for my ſins, and to hunger and thirſt after Chriſt and his merits above all thing: in the world, and againſt all doubting to endeavour my ſelfe to believe.</p>
+            <list>
+               <pb n="6" facs="tcp:39550:6"/>
+               <head>Proofs.</head>
+               <item>1 That there is ſound faith where the ſoule is humbled for ſin: <hi>Iſa.</hi> 57.15. The Lord ſaith, I dwell in a high and holy place, with him alſo that is of a contrite and humble ſpirit, to revive the ſpirit of the humble, and to give life to them that are of a contrite heart, <hi>Heb.</hi> 11.6. Without faith it is impoſſible to pleaſe God: <hi>Phil.</hi> 16. &amp; <hi>Pſal.</hi> 51.17.</item>
+               <item>2 That faith is begun where there is a ſervent deſire of grace, <hi>Mat.</hi> 5.6. Bleſſed are they that hunger and thirſt after righte<g ref="char:EOLhyphen"/>ouſneſſe, for they ſhall be ſatisfied. <hi>Pſal</hi> 143.6.</item>
+               <item>3 Where there is a ſtriving againſt diſtruſt, that their faith is begun, <hi>Pſal.</hi> 42.11. Why art thou caſt down ô my ſoule? and why art thou diſquieted within me? hope in God, for I ſhall yet praiſe him.</item>
+            </list>
+            <p>Q <hi>What is true lively faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is to be fully without doubting, reſolved of Gods mercie towards me in Chriſt Jeſus.</p>
+            <list>
+               <head>Proofs.</head>
+               <item>That ſome have attained to ſuch a lively faith, <hi>Rom.</hi> 4.20, 21. <hi>Abraham</hi> did not doubt of the promiſe of God through unbe<g ref="char:EOLhyphen"/>liefe, but was ſtrenghened in the faith, and gave glory to God being fully aſſured that he which had promiſed was able to doe it, <hi>Rom.</hi> 8 38, &amp; 39. Saint <hi>Paul</hi> ſaith, I am perſwaded that nei<g ref="char:EOLhyphen"/>ther death nor life, &amp;c. ſhall be able to ſeperate us from the love of God, which is in Jeſus Chriſt our Lord.</item>
+            </list>
+            <p>Q. <hi>By what means is faith wrought and ſtrengthened in us?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is begun by the preaching of the word, and is conti<g ref="char:EOLhyphen"/>nued by the ſame means, as alſo by the diligent reading of the ſame word, and in and by the reverend uſing of prayer, and the holy Sacrrments.</p>
+            <list>
+               <head>Proofs.</head>
+               <item>1 That faith is begun by the preaching of the word, <hi>Rom.</hi> 10.14, 17. How ſhall they believe in him of whom they have
+<pb n="7" facs="tcp:39550:6"/>not heard? and how ſhall they hear without a Preacher? and how ſhall they preach except they be ſent? then faith com<g ref="char:EOLhyphen"/>meth by hearing and hearing by the word of God. That faith is ſtrengthened by the ſame means, 1 <hi>Pet.</hi> 2.2. As new borne babes deſire the ſincere milke of the word, that yea may grow thereby.</item>
+               <item>3 That our faith may be confirmed by reading of the word of God, <hi>Acts</hi> 17.11, &amp; 12. The Bereans received the word of God with all readineſſe, and ſearched the Scriptures daily, whether thoſe things were ſo, therefore many of them belie<g ref="char:EOLhyphen"/>ved.</item>
+               <item>4 That our faith is increaſed by prayer, <hi>Mar.</hi> 9.24. &amp; <hi>Luk.</hi> 11.13. If then you being evill, know how to give good gifts to your children, how much more ſhall your heavenly Father give the holy Spirit to them that aske him, <hi>Luke</hi> 22.32. &amp; <hi>Pſal.</hi> 9.10.</item>
+               <item>6 That the Sacraments are means to ſtrengthen our faith, <hi>Rom</hi> 4.11. Where circumciſion is called the ſeale of the righ<g ref="char:EOLhyphen"/>teouſneſſe of faith.</item>
+            </list>
+            <p>Q <hi>In what manner is Gods Word to be heard and read, that it may be profitable?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> With prayer and reſolution to practiſe it, before it; with trembling and thirſting hearts in uſing of it, and with medi<g ref="char:EOLhyphen"/>tation and conference after it.</p>
+            <list>
+               <head>Proofs.</head>
+               <item>1 That by prayer we muſt be prepared to hear Gods Word, ſee <hi>Pſal.</hi> 119.33, 34. where <hi>David</hi> ſaith Teach me, ô Lord, the way of thy ſtatutes, and I ſhall keep it to the end, give me un<g ref="char:EOLhyphen"/>derſtanding and I ſhall keep thy Law, yea, I ſhall keep it with my whole heart.</item>
+               <item>2 That we muſt reſolve to obey Gods Words, <hi>Exod.</hi> 24.7.
+<hi>Moſes</hi> took the book of the Covenant, and read it in the hearing of the people, and they ſaid, all that the Lord hath ſaid we will doe and be obedient. <hi>Pſal.</hi> 119.57.</item>
+               <item>
+                  <pb n="8" facs="tcp:39550:7"/>
+3 That we muſt heare it with trembling hearts, <hi>Eſ.</hi> 66.2. the Lord ſaith, To this man will I look even to him that is poor, and of a contrite heart and ſpirit and that trembleth at my words.</item>
+               <item>4 That we muſt heare it with thirſting fools <hi>Pſal.</hi> 119.131. I opened my mouth and panted for I loved thy Commande<g ref="char:EOLhyphen"/>ments. 1 <hi>Pet.</hi> 2.2.</item>
+               <item>5 That we muſt meditate on Gods word. <hi>Pſal.</hi> 119.97 99. Oh how love I thy Law, it is my meditation continually I have more underſtanding then all my teachers, for thy Teſtimonies are my meditations.</item>
+               <item>6 That we muſt confer on Gods Word <hi>Deut.</hi> 6, 6 7. The words which I command thee this day ſhall be in thy heart, and thou ſhalt teach them to thy children diligently and thou ſhalt talk of them when thou ſitteſt in thy houſe, and when thou walkeſt by the way, and when thou lieſt down, and when thou riſeſt up.</item>
+            </list>
+            <p>Q. <hi>What is Prayer?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a ſpeech to God in the name of Chriſt, wherein with a contrite and faithfull heart, I aske graces wanting, and give thanks for benefits received.</p>
+            <list>
+               <head>Proofs.</head>
+               <item>1 That prayer muſt be made unto God <hi>Mat.</hi> 4.10. Thou ſhalt worſhip the Lord thy God, and him onely ſhalt thou ſerve. <hi>Pſal.</hi> 50.15. Call on me ſaith God, in the day of trou<g ref="char:EOLhyphen"/>ble, and I wil deliver thee, and thou ſhalt glorifie me. <hi>Gen.</hi> 18.17.</item>
+               <item>2 That prayer muſt be made in the name of Chriſt <hi>John</hi> 16.23. Chriſt ſaith, whatſoever you ſhall aske the Father in my name he will give it you. <hi>John</hi> 14.14.</item>
+               <item>3 That prayer muſt be made with our hearts <hi>Lam.</hi> 3.41. Let us lift up our hearts with our hands unto God in the hea<g ref="char:EOLhyphen"/>vens.</item>
+               <item>9 That prayer muſt proceed from a contrite heart <hi>Pſal.</hi> 34.18. &amp; <hi>Pſal.</hi> 51.17. the ſacrifices of God are a contrite ſpirit,
+<pb n="9" facs="tcp:39550:7"/>a broken and contrite heart ô Lord thou wilt not deſpiſe.</item>
+               <item>5 That Prayer muſt be made in faith <hi>Mark,</hi> 11.24. What things ſo ever you deſire when you pray, believe that you ſhall receive them and you ſhall have them.</item>
+               <item>6 That Prayer conſiſted of Petition and thankſgiving <hi>Phil.</hi> 4.6. Take thought for nothing, but in every thing by prayer and complication with giving of thanks, let your requeſts be made known to God.</item>
+            </list>
+            <p>Q. <hi>What is a Sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a ſigne to repreſent to mine eye and a ſeale to conſume, and conveigh to mine heart Chriſt with all his bene<g ref="char:EOLhyphen"/>fits.</p>
+            <list>
+               <head>Proofs</head>
+               <item>1 That Sacraments are ſignes <hi>Gen.</hi> 17.11. Yea ſhall circum<g ref="char:EOLhyphen"/>ciſe the fore-skin of your fleſh and it ſhall be a ſigne of the Co<g ref="char:EOLhyphen"/>venant between me and you.</item>
+               <item>2 That they are ſeales, <hi>Rom.</hi> 4.11. <hi>Abraham</hi> received the ſigne <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, as a ſeale of the righteouſneſſe of the faith which he had being circumciſed.</item>
+               <item>3 That the Sacraments conveigh unto us Chriſt and all his benefits 1 <hi>Cor.</hi> 10. The cup of bleſſing which we bleſſe, is it not the Communion of the bloud of Chriſt? the bread which we break is it not the communion of the body of Chriſt? <hi>Rom.</hi> 4.1</item>
+            </list>
+            <p>Q. <hi>How many Sacraments are there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two. Baptiſme whereby, as by the door I entred, and the Supper of the Lord, whereby as by meat I am fed, in the houſe of the Lord.</p>
+            <list>
+               <head>Proofs,</head>
+               <item>1 That there are onely theſe two Sacraments, ſee 1 <hi>Cor.</hi> 10.1, 3 4. where Saint <hi>Paul</hi> ſrith, that the old Iſraellites were all baptized, and did all eate the ſame ſpirituall meat, and drink the ſame ſpirituall drinke.</item>
+               <item>2 That by baptiſme we are entred into Gods Church, <hi>Acts</hi> 2.41. Then they that gladly received his word, were all bapti<g ref="char:EOLhyphen"/>zed
+<pb n="10" facs="tcp:39550:8"/>and the ſame day there were added to the Church about three thouſand ſoules <hi>Rom.</hi> 6.3.</item>
+               <item>3 That we are ſpiritually fed in the Lords ſupper 1 <hi>Cor</hi> 10.3.4. They did all eat the ſame ſpirituall meat, and drinke the ſame ſpirituall drinke.</item>
+            </list>
+            <p>Q. <hi>How muſt you come prepared to the Lords Supper?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By a due examination of my knowledge, faith, and repentance and by a carefull renewing of them.</p>
+            <list>
+               <head>Proofs.</head>
+               <item>1 That we muſt examine our ſelves, &amp;c. 2 <hi>Cor.</hi> 13.5. proove your ſelves whether you are in the faith, 1 <hi>Cor.</hi> 11.28. therefore let a man examine himſelfe, and ſo let him eat of this bread and drinke of this cup.</item>
+               <item>2 That we muſt renew our faith and repentance ſee <hi>Pſal.</hi> 26.6. in <hi>David</hi> I will waſh my hands in innocencie, ô Lord, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thine Altar. 2 <hi>Tim.</hi> 1.6. &amp; 1 <hi>Cor.</hi> 5.7.</item>
+            </list>
+            <p>Q. <hi>What owe you to God for your Redemption?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> All thankfulneſſe.</p>
+            <list>
+               <head>Proofs.</head>
+               <item>
+                  <hi>Pſal.</hi> 119.22, 23. What ſhall I render to the Lord, for all his <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> towards me; I will take the cup of ſalvation, and call on the name of the Lord.</item>
+            </list>
+            <p>Q. <hi>Wherein ſtandeth thankefulneſſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In new obedience, which is to carry in my heart a con<g ref="char:EOLhyphen"/>ſort purpoſe never to ſin any more, and withall to endevour in my life to pleaſe God in all his Commandements, within the compaſſe of my particular calling.</p>
+            <list>
+               <head>Proofs.</head>
+               <item>1 That thankfulneſſe for our redemption ſtandeth in new o<g ref="char:EOLhyphen"/>bedience ſee 2 <hi>Cor.</hi> 5.15 17. Chriſt died for all, that they which live ſhould not live henceforth unto themſelves, but unto him which died for them all, and roſe again; therefore, if any man be in Chriſt let him be a new creature.</item>
+               <item>2 That there muſt be a conſtant purpoſe not to ſin any more, 1 <hi>Pet.</hi> 4, 1, 2. Seeing Chriſt hath ſuffered for us in the fleſh, ſtirre
+<pb n="11" facs="tcp:39550:8"/>up your ſelves alſo with the ſame minde; that hee which hath ſuffered in the fleſh, hath ceaſed from ſin; that hee no longer ſhould live the reſt of his time in the fleſh, to the luſts of men, but to the will of God <hi>Rom.</hi> 4.24.</item>
+               <item>3 That there muſt be an endevour to pleaſe God in all things, in all his Comandements, ſee <hi>Pſal.</hi> 119.5, 6.106.102. in <hi>David</hi> I have ſworn, and will perform it, that I will keep thy righteous judgments; I have inclined my heart to performe thy ſtatutes always, even to the end, <hi>Acts</hi> 24.16. the like in Saint <hi>Paul.</hi>
+               </item>
+               <item>4 That every one muſt walk in their calling, 1 <hi>Cor.</hi> 7.17. As God hath diſtributed to every one, as the Lord hath called eve<g ref="char:EOLhyphen"/>ry one ſo let him walk.</item>
+            </list>
+            <p>Q. <hi>What is your comfort herein?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I am aſſured, that I ſhall want nothing that is good for me in this life preſent, and that I ſhall enjoy everlaſting bleſſed<g ref="char:EOLhyphen"/>neſſe in the world to come.</p>
+            <list>
+               <head>Proofs.</head>
+               <item>1 That ſerving God in our callings, we are aſſured of all ne<g ref="char:EOLhyphen"/>ceſſaries for this life, <hi>Matth.</hi> 6.33. <hi>Pſal.</hi> 84.11. The Lord is the Sun and Shield unto us, the Lord will give grace and glory, and no good thing will he with-hold from them that walk up<g ref="char:EOLhyphen"/>rightly.</item>
+               <item>2 That wee ſhall be bleſſed for ever in the world to come, <hi>Rom.</hi> 2.10. Glory, honour, and peace ſhall be to every one that doth good, to the Jew firſt, and alſo to the Gentile, <hi>Matth.</hi> 19.29. 1 <hi>Tim.</hi> 4.8.</item>
+            </list>
+            <p>Q. <hi>What is everlaſting bleſſedneſſe in the world to come?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That at my death, my body for a ſhort time ſhall remaine in the grave, as in a ſweet bed of reſt, but my ſoul ſhall go immediatly into heaven; and at the day of judgment, my body ſhall be raiſed from the dead, and joyned to my ſoul again, and then both my body and ſoul ſhall have fellowſhip with Chriſt in incomprehenſible joy, and everlaſting glory.</p>
+            <list>
+               <pb n="12" facs="tcp:39550:9" rendition="simple:additions"/>
+               <head>Proofs.</head>
+               <item>1 That our graves ſhall be as ſweet beds of reſt unto us; <hi>I<g ref="char:EOLhyphen"/>ſaiah</hi> 57.2. They ſhall enter into peace they ſhall reſt in their beds, every one that walketh in his uprightneſſe.</item>
+               <item>2 That at death the ſoul goes to heaven ſee <hi>Luk.</hi> 16.22. The begger alſo died, and was carried by the Angels into <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> boſome; <hi>Luke</hi> 23.43. Where our Saviour Chriſt ſaid to the penitent thief; verily, I ſay unto thee, this day ſhalt thou be with me in Paradiſe.</item>
+               <item>3 That our bodies ſhall be raiſed from the dead. <hi>John</hi> 5.28, 29. Chriſt ſaith, the houre is comming, in the which all that are in the graves ſhall heare his voice and come forth they that have done good to the reſurrection of life; and they that have done evill to the reſurrection or condemnation: 1 <hi>Cor.</hi> 15.</item>
+               <item>4 That bodies and ſouls ſhall have fellowſhip with God ſee <hi>Pſal.</hi> 17.15. where <hi>David</hi> ſaith to the Lord; as for me. I ſhall behold thy face in righteouſneſſe, and when I awake I ſhall be ſatisfied with thine image, and likewiſe <hi>Job</hi> 19.6 27.</item>
+               <item>5 That our happineſſe in heaven ſhall be incomprehenſible, and everlaſting 1 <hi>Cor.</hi> 2.9. <hi>Pſal.</hi> 16.11. Thou will ſhew me the path of uſe, in thy preſence is fulneſſe of joy, and at thy right hand there are pleaſures for ever more. 1 <hi>Theſ.</hi> 4.17.</item>
+            </list>
+            <trailer>The end of the Principles.</trailer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39550:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
